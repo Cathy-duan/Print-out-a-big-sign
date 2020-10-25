@@ -1,1 +1,1 @@
-# Print-out-a-big-sign
+In this project, you need to print out a big sign. The program will read a formatting code followed by a message and then use a dot matrix font and the formatting code to print out a big sign that displays the message. 
